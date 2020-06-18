@@ -1,4 +1,4 @@
-# Sistem Penerimaan Beasiswa Berbasis SPK Metode SAW (Simple  Additive Weghting)
+# Sistem Penerimaan Beasiswa Berbasis SPK (Sistem Pendukung Keputusan) Metode SAW (Simple  Additive Weghting)
 
 Username: admin
 Password: admin
