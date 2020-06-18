@@ -5,13 +5,10 @@ Password: admin
 
 ### Screenshot:
 
-![Jepretan Layar 2020-06-18 pada 21 24 40](https://user-images.githubusercontent.com/40556076/85038920-5d3fa000-b1b1-11ea-9a14-dd2b40964aa0.png)
-![Jepretan Layar 2020-06-18 pada 21 19 09](https://user-images.githubusercontent.com/40556076/85038925-5e70cd00-b1b1-11ea-9dca-f98e09a9cc8c.png)
 ![Jepretan Layar 2020-06-18 pada 22 12 38](https://user-images.githubusercontent.com/40556076/85038929-5f096380-b1b1-11ea-8990-f7735f2453f9.png)
 ![Jepretan Layar 2020-06-18 pada 22 12 25](https://user-images.githubusercontent.com/40556076/85038936-5fa1fa00-b1b1-11ea-911a-eab6f04459c8.png)
 ![Jepretan Layar 2020-06-18 pada 22 12 17](https://user-images.githubusercontent.com/40556076/85038939-60d32700-b1b1-11ea-994c-e2c8dc74cfe5.png)
 ![Jepretan Layar 2020-06-18 pada 22 12 10](https://user-images.githubusercontent.com/40556076/85038943-616bbd80-b1b1-11ea-9b68-3855571f8f0d.png)
-
 ![Jepretan Layar 2020-06-18 pada 22 12 03](https://user-images.githubusercontent.com/40556076/85038912-5b75dc80-b1b1-11ea-9e80-a72f1a6a9082.png)
 ![Jepretan Layar 2020-06-18 pada 22 12 03](https://user-images.githubusercontent.com/40556076/85038896-56b12880-b1b1-11ea-82e4-0148ed14fe4c.png)
 ![Jepretan Layar 2020-06-18 pada 22 12 45](https://user-images.githubusercontent.com/40556076/85038907-59ac1900-b1b1-11ea-8fe5-f23ae311d69e.png)
